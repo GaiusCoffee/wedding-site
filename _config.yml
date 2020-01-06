@@ -1,20 +1,22 @@
 # Site settings
-title: "Sabrina + Vittorio"
+title: "Erik 💝Marian"
 description: |
-    Villa Claudia, Teano
-
-    28 Maggio 2019
-owner: Vittorio Monaco
-first_published: 2018
-email: vittorio.monaco1@gmail.com
+    #EriksOneInAMarian
+owner: Erik Gaius Capistrano
+first_published: 2020
+email: gaius.coffee@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.sabrinaevittoriosposi.it" # the base hostname & protocol for your site
+url: "https://erikandmarian.ph" # the base hostname & protocol for your site
 
 # Google analytics
-google_analytics: "UA-40721189-2"
+google_analytics: "UA-56797626-16"
 
 social:
-  github: https://github.com/vittoriom/wedding-site
+  github: https://github.com/gaiuscoffee/wedding-site
+  twitter: https://twitter.com/gaiuscoffee
+  facebook: https://facebook.com/gaiuscoffee
+  linkedin: https://www.linkedin.com/in/gaiuscoffee
+  link: https://gaius.coffee
 
 # Build settings
 markdown: kramdown
